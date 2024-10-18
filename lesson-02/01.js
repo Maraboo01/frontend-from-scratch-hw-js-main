@@ -16,4 +16,3 @@ const hasTemporaryPass = false
 let isAccess
 
 // your code
-1
